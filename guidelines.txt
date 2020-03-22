@@ -1,0 +1,7 @@
+Goto the directory
+D:\workspace\go\webapp\src\app
+
+and run on the terminal
+go run github.com/ainmor/go
+
+
